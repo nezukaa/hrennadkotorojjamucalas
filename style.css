@@ -1,0 +1,21 @@
+h1{color: #8aa7d3;
+text-align: center;
+border-radius: 10px;
+font-family: 'Franklin Gothic Medium';
+font-size: 35px;
+background-color: #ffffff;}
+ul{color: #ffffff;
+font-size: 25px;}
+h4{ color: #5988FF;
+    font-size: 20px;}
+.container {
+    
+    border: 2px solid #5988FF; /* Обводим зелёной линией */
+    border-radius: 15px; /* Скругляем углы на 5 пикселей */
+    height: 300px;
+    background-color: #5988FF;
+    
+}
+.h4{color: #7c81d9;
+    font-size: 20px;
+}
